@@ -1,0 +1,11 @@
+username,useridentifier,age,city,phonenumber,email
+user1,1001,29,New York,123-456-7890,user1@example.com
+user2,1002,30,Tashkent,654-159-1169,user2@example.com
+user3,1003,31,Buhara,621-951-9874,user3@example.com
+user4,1004,32,Samarkand,654-987-7893,user4@example.com
+user5,1005,33,Almaty,333-456-3215,user5@example.com
+user6,1006,65,Astana,321-666-2154,user6@example.com
+user7,1007,22,Bishkek,974-456-7896,user7@example.com
+user8,1008,15,Afrosiyob,256-888-3299,user8@example.com
+user9,1009,16,Khiva,999-459-3225,user9@example.com
+user10,1010,88,Afshona,485-487-9954,user10@example.com
